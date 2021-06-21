@@ -1,6 +1,6 @@
 # Installation steps
  - Fork or clone the repo.
- - Do a `yarn install` and `yarn start`
+ - Do a `npm install` and `npm start`
  - Now open http://localhost:3000/ locally
 
 # Desktop view
